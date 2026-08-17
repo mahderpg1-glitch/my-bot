@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+phonenumbers
+openpyxl
+ms4
+rich
